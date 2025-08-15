@@ -15,3 +15,8 @@ La cocina japonesa destaca por su elegancia y precisión, con énfasis en la fre
 * Té verde japonés.
 * Sake.
 * Agua mineral fría.
+
+## Consejos
+
+* Usa salsa de soja con moderación para no opacar los sabores.
+* Sirve todo recién preparado para mantener la textura.
