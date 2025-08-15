@@ -15,3 +15,8 @@ La cocina india es rica en especias y aromas, conocida por su variedad de currys
 * Lassi (natural o de mango).
 * Té chai con especias.
 * Agua.
+
+## Consejos
+
+* Tuesta ligeramente las especias para potenciar su aroma.
+* Acompaña con pan naan o arroz basmati.
