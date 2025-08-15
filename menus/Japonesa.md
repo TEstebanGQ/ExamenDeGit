@@ -9,3 +9,9 @@ La cocina japonesa destaca por su elegancia y precisión, con énfasis en la fre
 * **Sushi Variado**: Rollos de arroz con pescado crudo, verduras o mariscos.
 * **Ramen**: Sopa caliente de fideos con caldo, carne y huevo.
 * **Tempura**: Mariscos y vegetales fritos en una ligera capa de rebozado. 
+
+## Bebidas Recomendadas
+
+* Té verde japonés.
+* Sake.
+* Agua mineral fría.
