@@ -16,3 +16,7 @@ La cocina mediterránea se basa en ingredientes frescos, aceite de oliva, hierba
 * Agua con rodajas de limón.
 * Infusiones de hierbas.
 
+## Consejos
+
+* Usa aceite de oliva extra virgen en crudo para potenciar los sabores.
+* Ideal para dietas saludables y ligeras.
