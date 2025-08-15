@@ -15,3 +15,8 @@ La cocina francesa es sinónimo de sofisticación, conocida por su técnica refi
 * Vino blanco o tinto francés.
 * Agua sin gas.
 * Café espresso para el final.
+
+## Consejos
+
+* Usa mantequilla de buena calidad.
+* Presenta cada plato con cuidado estético.
