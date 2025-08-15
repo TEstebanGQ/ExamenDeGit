@@ -15,3 +15,8 @@ La cocina china combina técnicas antiguas y sabores equilibrados, con una gran 
 * Té de jazmín.
 * Cerveza china.
 * Agua templada.
+
+## Consejos
+
+* Prepara todos los ingredientes antes de cocinar (mise en place).
+* Cocina en wok para una cocción rápida y pareja.
