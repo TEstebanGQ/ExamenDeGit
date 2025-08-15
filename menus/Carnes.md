@@ -3,3 +3,9 @@
 ## Descripción
 
 Este menú resalta cortes de carne bien cocinados, acompañados con guarniciones sabrosas.
+
+## Platos Principales
+
+* **Filete a la Parrilla**: Corte de res con sal gruesa y pimienta.
+* **Costillas BBQ**: Cocidas lentamente con salsa barbacoa.
+* **Cordero al Romero**: Asado con hierbas aromáticas.
