@@ -2,7 +2,7 @@
 
 ## Descripcion
 
-La cocina japonesa destaca por su elegancia y precisión, con énfasis en la frescura y el equilibrio.
+La cocina japonesa destaca por su elegancia y precisión, con énfasis en la frescura  el equilibrio haciendo que su gastronomia sea apetecida globalmente.
 
 ## Platos Principales
 
