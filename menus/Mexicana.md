@@ -15,3 +15,8 @@ La cocina mexicana es vibrante y colorida, conocida por su uso del maíz, chiles
 * Agua de horchata.
 * Cerveza mexicana.
 * Tequila o mezcal como digestivo.
+
+## Consejos 
+
+* No temas a los sabores picantes: ajusta el nivel de chile al gusto.
+* Sirve con totopos y guacamole para comenzar.
