@@ -15,3 +15,8 @@ La cocina vegetariana se enfoca en verduras, legumbres, granos y frutas, sin inc
 * Jugo natural.
 * Té de hierbas.
 * Kombucha.
+
+## Consejos
+
+* Equilibra proteínas vegetales (legumbres, nueces) en cada comida.
+* Juega con texturas y colores para hacer platos atractivos.
