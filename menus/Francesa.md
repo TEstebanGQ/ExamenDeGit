@@ -9,3 +9,9 @@ La cocina francesa es sinónimo de sofisticación, conocida por su técnica refi
 * **Coq au Vin**: Pollo cocido en vino tinto con champiñones y cebollas.
 * **Ratatouille**: Guiso de verduras provenzal.
 * **Quiche Lorraine**: Tarta salada con tocino, queso y crema.
+
+## Bebidas Recomendadas
+
+* Vino blanco o tinto francés.
+* Agua sin gas.
+* Café espresso para el final.
