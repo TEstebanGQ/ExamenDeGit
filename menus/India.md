@@ -9,3 +9,9 @@ La cocina india es rica en especias y aromas, conocida por su variedad de currys
 * **Pollo Tikka Masala**: Pollo marinado en yogur con salsa de tomate especiada.
 * **Chana Masala**: Garbanzos cocinados con cebolla, tomate y especias.
 * **Biryani**: Arroz especiado con carne o verduras.
+
+## Bebidas Recomendadas
+
+* Lassi (natural o de mango).
+* Té chai con especias.
+* Agua.
