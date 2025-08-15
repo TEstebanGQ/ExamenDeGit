@@ -15,3 +15,8 @@ La repostería ofrece dulces placeres, desde preparaciones clásicas hasta innov
 * Café espresso.
 * Licor dulce (como Amaretto o Baileys).
 * Leche fría o caliente.
+
+## Consejos
+
+* Mide bien los ingredientes para lograr texturas perfectas.
+* Sirve a temperatura adecuada según el postre.
