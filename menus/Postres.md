@@ -9,3 +9,9 @@ La repostería ofrece dulces placeres, desde preparaciones clásicas hasta innov
 * **Tiramisú**: Postre italiano con café y mascarpone.
 * **Crème Brûlée**: Crema con capa de azúcar caramelizado.
 * **Pastel de Chocolate**: Bizcocho húmedo con cobertura intensa.
+
+## Bebidas Recomendadas
+
+* Café espresso.
+* Licor dulce (como Amaretto o Baileys).
+* Leche fría o caliente.
