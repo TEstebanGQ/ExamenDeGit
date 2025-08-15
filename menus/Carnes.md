@@ -15,3 +15,8 @@ Este menú resalta cortes de carne bien cocinados, acompañados con guarniciones
 * Vino tinto robusto.
 * Cerveza artesanal.
 * Agua con gas.
+
+## Consejos
+
+* Deja reposar la carne después de cocinar para mantener jugos.
+* Usa termómetro para cocción exacta según el tipo de carne.
